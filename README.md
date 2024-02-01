@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abishek Sankarnarayanan</h1>
-<h3 align="center">Adaptable Software Engineer with expertise in development of applications on NodeJS, ASP .Net, React, Angular.</h3>
+<h3 align="center">Adaptable Full Stack Software Engineer with expertise in development of applications on NodeJS, ASP .Net, React, Angular.</h3>
 
-- 🔭 I’m currently working on **Alacarte**
+- 🔭 I’m currently working on the below
+- **Alacarte**
+- **Simple Resumes**
+- **Alliance**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
